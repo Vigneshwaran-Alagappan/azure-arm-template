@@ -137,7 +137,7 @@
           ],
           "properties": {
             "RepoUrl": "https://github.com/Vigneshwaran-Alagappan/azure-arm-template.git",
-            "branch": "v5.1",
+            "branch": "v5.1.55",
             "IsManualIntegration": true
           }
         },
